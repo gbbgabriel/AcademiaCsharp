@@ -1,0 +1,15 @@
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha.deps.json
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha.runtimeconfig.json
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha.dll
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha.pdb
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.csproj.AssemblyReference.cache
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.AssemblyInfoInputs.cache
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.AssemblyInfo.cs
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.csproj.CoreCompileInputs.cache
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.dll
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/obj/Debug/net7.0/refint/JogoDaVelha.dll
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.pdb
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.genruntimeconfig.cache
+/Users/gbbgabriel/Projects/JogoDaVelha/JogoDaVelha/obj/Debug/net7.0/ref/JogoDaVelha.dll
